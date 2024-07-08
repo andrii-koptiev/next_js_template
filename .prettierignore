@@ -1,0 +1,6 @@
+node_modules/*
+/.idea
+/.husky
+/.next
+*.json
+*.md
